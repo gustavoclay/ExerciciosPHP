@@ -5,11 +5,15 @@
 	<title></title>
 </head>
 <body>
-	<?php 
 
-	
+	<?php
+		$i = 1;
+		do{
+			print $i."<br>";
+			$i++;
+		}while ($i > 100)
+
 
 	?>
-
 </body>
 </html>

@@ -2,15 +2,15 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title></title>
+	<title>Comando IF</title>
 </head>
 <body>
-	<form action="if.php" method="GET">
+	<form action="if.php" method="get">
 		A <input type="number" name="a">
 		B <input type="number" name="b">
 		<button type="submit">Enviar</button>
 	</form>
-	<?php 
+	<?php
 
 	$a = @$REQUEST["a"];
 	$b = @$REQUEST["b"];
@@ -19,10 +19,7 @@
 		print "$a é maior que $b";
 	} elseif ($a < $b) {
 		print "$b é maior que $a";
-	} elseif ($a == $b) {
-		print "Os valores são iguais";
-	}
-
+	} 
 
 
 
