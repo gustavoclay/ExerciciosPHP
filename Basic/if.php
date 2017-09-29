@@ -17,9 +17,9 @@
 
 	if ($a > $b) {
 		print "$a é maior que $b";
-	} else if ($a < $b) {
+	} elseif ($a < $b) {
 		print "$b é maior que $a";
-	} else if ($a == $b) {
+	} elseif ($a == $b) {
 		print "Os valores são iguais";
 	}
 

@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1>Cauculadora</h1>
-	<form action="index.php" method="get">
+	<form action="calculator.php" method="get">
 		Soma
 		A: <input type="number" name="a">
 		B: <input type="number" name="b">
