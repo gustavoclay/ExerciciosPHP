@@ -1,0 +1,39 @@
+LISTA DE EXERCÍCIO PHP
+
+
+1. Construir um algoritmo que leia 2 números e efetue a adição. Caso o valor somado seja maior que 20, este deverá ser apresentando somando-se a ele mais 8; caso o valor somado seja menor ou igual a 20, este deverá ser apresentado subtraindo-se 5 
+
+2. Ler três números inteiros, a partir de um formulário, e imprimir na tela qual o maior e menor valor fornecido. 
+
+
+3. Crie um script php que receba um número, a partir de um formulário e gere a tabuada completa de multiplicação deste número.
+
+4. Crie um script em PHP que receba pela URL do navegador 3 valores numéricos e os rmazene nas variáveis $a, $b e $c. Em seguida, calcule e escreva o valor da expressão ($a - $b) * $c;
+
+
+5. Maria quer viajar até a casa de sua irmã, de carro, e gostaria de saber, antecipadamente, quantos litros de gasolina irá gastar e qual o valor que terá de desembolsar pelo combustível gasto na viagem. Faça um script em PHP que receba via formulário: 
+a. A distância da casa de Maria até a casa de sua irmã, em km; 
+b. O consumo de seu carro, em km/litro; 
+c. O preço da gasolina no posto onde Maria abastece. 
+Em seguida, mostre para Maria o valor que a mesma gastará com combustível na viagem e quantos litros o carro consumirá;
+
+6. Calcular a quantidade de dinheiro gasta por um fumante. Dados: o número de anos que ele fuma, o nº de cigarros fumados por dia e o preço de uma carteira.
+
+7. Escreva uma função que recebe, por parâmetro, o número de linhas, colunas e um conteúdo (texto) qualquer. Que serão utilizados para criar uma tabela HTML com essas características.
+
+8. Criar uma função para calcular o imposto de renda dos contribuintes, considerando que os dados de cada contribuinte, número de CPF, número de dependentes e renda mensal são valores fornecidos pelo usuário. Para cada contribuinte será feito um desconto de 5% do salário mínimo por dependente. 
+
+Os valores para cálculo do imposto são: 
+
+Renda Líquida
+Alíquota
+Até 3 salários mínimos
+Isento
+3 salários mínimos
+7%
+4 salários mínimos
+15%
+5 salários mínimos
+22%
+Acima de 6 salários mínimos
+27%
