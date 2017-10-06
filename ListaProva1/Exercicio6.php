@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Exercicio 6</title>
+	<title>Exercicio 6 - Gustavo Clay</title>
 	<meta charset="utf-8" lang="pt-BR">
 </head>
 <body>

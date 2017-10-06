@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Exercicio 3</title>
+	<title>Exercicio 3 - Gustavo Clay</title>
 	<meta charset="utf-8" lang="pt-BR">
 	<!-- 3. Crie um script php que receba um número, a partir de um formulário e gere a tabuada completa de multiplicação deste número. -->
 </head>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Exercicio 4</title>
+	<title>Exercicio 4 - Gustavo Clay</title>
 	<meta charset="utf-8" lang="pt-BR">
 	<!-- 4. Crie um script em PHP que receba pela URL do navegador 3 valores numéricos e os rmazene nas variáveis $a, $b e $c. Em seguida, calcule e escreva o valor da expressão ($a - $b) * $c;
  -->

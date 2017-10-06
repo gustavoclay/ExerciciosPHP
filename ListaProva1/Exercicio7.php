@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Exercicio 7</title>
+	<title>Exercicio 7- Gustavo Clay</title>
 	<meta charset="utf-8" lang="pt-BR">
 	<link rel="stylesheet" type="text/css" href="Exercicio7.css">
 	<!--7. Escreva uma função que recebe, por parâmetro, o número de linhas, colunas e um conteúdo (texto) qualquer. Que serão utilizados para criar uma tabela HTML com essas características. -->

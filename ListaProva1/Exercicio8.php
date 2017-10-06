@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Exercicio 8</title>
+	<title>Exercicio 8- Gustavo Clay</title>
 	<meta charset="utf-8" lang="pt-BR">
 	<link rel="stylesheet" type="text/css" href="Exercicio7.css">
 	<!--Criar uma função para calcular o imposto de renda dos contribuintes, considerando que os dados de cada contribuinte, número de CPF, número de dependentes e renda mensal são valores fornecidos pelo usuário. Para cada contribuinte será feito um desconto de 5% do salário mínimo por dependente. 

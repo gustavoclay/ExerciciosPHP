@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Exercicio 2</title>
+	<title>Exercicio 2 - Gustavo Clay</title>
 </head>
 <body>
 	<!-- 	02.	Ler três números inteiros, a partir de um formulário, e imprimir na tela qual o maior e menor valor fornecido.   -->
