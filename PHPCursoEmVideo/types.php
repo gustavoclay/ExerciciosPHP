@@ -10,9 +10,12 @@
 		<?php
 		$n = 4;
 		$nome = "Gustavo";
-		echo $nome;
-		
-
+		//typecast
+		//$nome = (string)"Gustavo";
+		//$nome = (int)"10Gustavo";
+		//$nome = (int)"Gustavo10";
+		$n = 4.5;
+		echo $n;
 
 
 		?>
