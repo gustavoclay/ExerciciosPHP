@@ -15,9 +15,8 @@
 		//abs() - valor absoluto, eliminar o sinal negativo e considerar apenas o valor
 		echo "<br>O valor de $n1<sup>$n2</sup> é ".pow($n1, $n2);
 		//pow() - potência
-		echo "<br>A raiz de $n1";
-
-
+		echo "<br>A raiz de $n1 é ".sqrt($n1);
+		//sqrt() - raiz quadrada
 
 		?>
 	</div>
