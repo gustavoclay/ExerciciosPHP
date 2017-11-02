@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="_css/estilo.css">
-	<title>Operações R/title>
+	<title>Operações Relacionais</title>
 </head>
 <body>
 	<div>
