@@ -17,7 +17,13 @@
 		//pow() - potência
 		echo "<br>A raiz de $n1 é ".sqrt($n1);
 		//sqrt() - raiz quadrada
-
+		echo "<br>O valor arredondade de $n1 é ".round($n1);
+		//round() - arredondar um numero real
+		//ceil arredonda valor para cimaa
+		//floor arredonda valor para baixo
+		echo "<br>A parte inteira de $n1 é ".intval($n1);
+		//intval - parte inteira de um numero
+		echo "<br>O vaor de $n1 em moeda é ".number_format($n1, 2, ",", ".")."R$";
 		?>
 	</div>
 </body>
