@@ -19,7 +19,7 @@
 
 		*/
 
-		if ($i>18 or $i<65) {
+		if ($i>=18 && $i<=65) {
 			echo "Participação em votação obrigatória";
 		} else {
 			echo "Participação em votação não obrigatória";
